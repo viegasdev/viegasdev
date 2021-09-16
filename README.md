@@ -11,5 +11,5 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="viegasdev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="viegasdev-gif" height="60" width="120" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47idlx0qzzqfw4alvq18f8cmuuz0naycjygx3eog1h&rid=giphy.gif&ct=g">
+  <img align="right" alt="viegasdev-gif" height="150" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47idlx0qzzqfw4alvq18f8cmuuz0naycjygx3eog1h&rid=giphy.gif&ct=g">
 </div>

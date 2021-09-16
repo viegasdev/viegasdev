@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 🖖
 
-<!--
-**viegasdev/viegasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Currently on 12th grade
+- 💻 Learning Python at the moment
+- 📫 Contact me on roussadoviegas@gmail.com
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/viegasdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viegasdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="left" alt="viegasdev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47idlx0qzzqfw4alvq18f8cmuuz0naycjygx3eog1h&rid=giphy.gif&ct=g">
+</div>
